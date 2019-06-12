@@ -1,0 +1,36 @@
+
+
+.muicplayer-conatainer{
+  box-sizing: border-box;
+margin: auto;
+margin-top:5rem;
+display: flex;
+align-items: center;
+justify-content:space-between;
+padding:1rem;
+  width:90%;
+  height:6rem;
+ background: rgb(51, 51, 51);
+ color:rgb(165, 161, 161);
+}
+.playlist-volume-container{
+  display: flex;
+
+}
+.slider-time-container{
+  display: flex;
+  width: 100%;
+
+}
+.slider-controls{
+  width:55%;
+  text-align: center;
+
+}
+.song-duration{
+  padding:0 1rem ;
+  margin-top: 4px;
+}
+.playlist-volume-container i{
+  margin:4px 4px 4px 0;
+}
