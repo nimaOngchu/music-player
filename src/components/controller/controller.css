@@ -5,3 +5,6 @@ margin:0 1rem;
 .controller-container i{
     cursor: pointer;
 }
+.controller-container i:hover{
+    color:white;
+}

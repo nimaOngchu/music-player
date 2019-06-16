@@ -13,7 +13,7 @@
       src:
         'https://p.scdn.co/mp3-preview/122a46bc4efd328342b73c5de58f31e889048e15?cid=a986fb6060124a80926e49e31ac247ac',
       artist: 'nima sherpa',
-      imgage:
+      image:
         'https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cg_face%2Cq_auto:good%2Cw_300/MTQ3Mzg3MjY0ODg2OTA4NTk5/j_cole_photo_by_isaac_brekken_wireimage_getty_503069628.jpg'
     },
     {
